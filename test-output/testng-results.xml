@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="185658" started-at="2022-01-21T13:13:45 IST" finished-at="2022-01-21T13:16:50 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="185658" started-at="2022-01-21T13:13:45 IST" finished-at="2022-01-21T13:16:50 IST">
+      <class name="com.signup.SignUpTestCases">
+        <test-method status="PASS" signature="loginURL()[pri:0, instance:com.signup.SignUpTestCases@43bd930a]" name="loginURL" is-config="true" duration-ms="32527" started-at="2022-01-21T13:13:46 IST" finished-at="2022-01-21T13:14:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginURL -->
+        <test-method status="PASS" signature="companyName(java.lang.String)[pri:0, instance:com.signup.SignUpTestCases@43bd930a]" name="companyName" duration-ms="7300" started-at="2022-01-21T13:14:18 IST" data-provider="excel-data" finished-at="2022-01-21T13:14:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hig2347 technologies]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.signup.SignUpTestCases@43bd930a]" name="tearDown" is-config="true" duration-ms="1" started-at="2022-01-21T13:14:26 IST" finished-at="2022-01-21T13:14:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginURL()[pri:0, instance:com.signup.SignUpTestCases@43bd930a]" name="loginURL" is-config="true" duration-ms="32924" started-at="2022-01-21T13:14:26 IST" finished-at="2022-01-21T13:14:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginURL -->
+        <test-method status="PASS" signature="companyName(java.lang.String)[pri:0, instance:com.signup.SignUpTestCases@43bd930a]" name="companyName" duration-ms="15342" started-at="2022-01-21T13:14:59 IST" data-provider="excel-data" finished-at="2022-01-21T13:15:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hi23%%** tech**]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.signup.SignUpTestCases@43bd930a]" name="tearDown" is-config="true" duration-ms="1" started-at="2022-01-21T13:15:14 IST" finished-at="2022-01-21T13:15:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginURL()[pri:0, instance:com.signup.SignUpTestCases@43bd930a]" name="loginURL" is-config="true" duration-ms="42481" started-at="2022-01-21T13:15:14 IST" finished-at="2022-01-21T13:15:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginURL -->
+        <test-method status="PASS" signature="companyName(java.lang.String)[pri:0, instance:com.signup.SignUpTestCases@43bd930a]" name="companyName" duration-ms="12931" started-at="2022-01-21T13:15:57 IST" data-provider="excel-data" finished-at="2022-01-21T13:16:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hybrid technology]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.signup.SignUpTestCases@43bd930a]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-01-21T13:16:09 IST" finished-at="2022-01-21T13:16:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginURL()[pri:0, instance:com.signup.SignUpTestCases@43bd930a]" name="loginURL" is-config="true" duration-ms="33412" started-at="2022-01-21T13:16:09 IST" finished-at="2022-01-21T13:16:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginURL -->
+        <test-method status="PASS" signature="companyName(java.lang.String)[pri:0, instance:com.signup.SignUpTestCases@43bd930a]" name="companyName" duration-ms="7515" started-at="2022-01-21T13:16:43 IST" data-provider="excel-data" finished-at="2022-01-21T13:16:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HUBRID TECHNOLOGY]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.signup.SignUpTestCases@43bd930a]" name="tearDown" is-config="true" duration-ms="1" started-at="2022-01-21T13:16:50 IST" finished-at="2022-01-21T13:16:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.signup.SignUpTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
